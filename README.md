@@ -28,18 +28,24 @@ Afterwards, you need to install launchctl. for doing that, open your terminal an
 
 2 DRAG AND DROP
 
-Drag and drop the downloaded files into
+Drag and drop the downloaded files into: 
 
             ~/Library/LauchAgents folder of your MAC.
+            
+("~" means the root of your system, normally, its name is smth like "JohnMacBookPro", "MyMacBook" or "Macintosh HD")
+            
 
 3 OPEN TERMINAL TO "LAUNCH" THE TURNOFF PROGRAM (FOREVER RUNNING, NO NEED TO INITIATE EACH TIME)
 
 Open terminal program and type:
 
-      cd ~/Library/LauchAgents
+      cd /Library/LauchAgents
       chmod a+x turnOff.sh
       ./turnOff.sh    
       launchctl load -w /Library/LaunchAgents/com.turnOff.plist
+      
+(if first line does not work, type "cd NAME_FOLDER" to move where you "Library" folder is. "cd" stands for change directory=cliccking on a folder will move you to the conet of that folder, this is exactly the same but using the terminal)
+      
 
 4 CHECK IF PROCESS IS RUNNING AND DISABLE IT (IF YOU WANT)
 
