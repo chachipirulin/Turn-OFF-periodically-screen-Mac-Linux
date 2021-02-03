@@ -12,6 +12,7 @@ Super easy:
             5 EXTRA: PERSONALIZE TIME INTERVAL
 
 1 DOWNLOAD FILES
+
  Download these two files (com.turnOff.plist & turnOff.sh) from this link:
               https://github.com/chachipirulin/TurnOFF-screen-for-Mac-Linux/archive/main.zip
             
