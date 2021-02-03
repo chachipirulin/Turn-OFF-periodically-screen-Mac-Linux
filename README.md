@@ -4,12 +4,20 @@ Turn OFF mac screen each 30 min (stand up and stretch time/seconds!). The screen
 
 
 Super easy:
-
+            0 REQUIREMENTS 
             1 DOWNLOAD FILES
             2 DRAG AND DROP
             3 OPEN TERMINAL TO "LAUNCH" THE TURNOFF PROGRAM 
             4 CHECK IF PROCESS IS RUNNING AND DISABLE IT 
             5 EXTRA: PERSONALIZE TIME INTERVAL
+
+0 REQUIREMENTS: INSTALL BREW AND LAUNCHTL
+
+Follow the steps in: https://brew.sh/ to install Brew.
+Afterwards, you need to install launchctl. for doing that, open your terminal and type the following:
+
+            brew instal launchctl
+
 
 1 DOWNLOAD FILES
 
