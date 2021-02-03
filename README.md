@@ -1,5 +1,5 @@
 # TurnOFF-screen-for-Mac-Linux
-Turn OFF mac screen each 30 min (stand up and stretch time/seconds!). The screen will turn ON if yoou press any key.
+Turn OFF mac screen each 30 min (stand up and stretch time/seconds!). The screen will turn ON if you press any key.
 
 
 
@@ -13,6 +13,7 @@ Super easy:
 
 1 DOWNLOAD FILES
  Download these two files (com.turnOff.plist & turnOff.sh) from this link:
+              https://github.com/chachipirulin/TurnOFF-screen-for-Mac-Linux/archive/main.zip
             
 
 2 DRAG AND DROP
