@@ -15,7 +15,7 @@ Super easy:
 0 REQUIREMENTS: INSTALL BREW AND LAUNCHTL
 
 Follow the steps in: https://brew.sh/ to install Brew.
-Afterwards, you need to install launchctl. for doing that, open your terminal and type the following:
+Afterwards, you need to install launchctl. For doing that, open your terminal and type the following:
 
             brew install launchctl-completion
 
