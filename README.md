@@ -44,7 +44,7 @@ Open terminal program and type:
       ./turnOff.sh    
       launchctl load -w /Library/LaunchAgents/com.turnOff.plist
       
-(if first line does not work, type "cd NAME_FOLDER" to move where you "Library" folder is. "cd" stands for change directory=cliccking on a folder will move you to the conet of that folder, this is exactly the same but using the terminal)
+(if first line does not work, type "cd NAME_FOLDER" to move where you "Library" folder is. "cd" stands for change directory = clicking on a folder will move you to the conet of that folder, this is exactly the same but using the terminal)
       
 
 4 CHECK IF PROCESS IS RUNNING AND DISABLE IT (IF YOU WANT)
@@ -64,4 +64,6 @@ To personalize time interval, just open "com.turnOff.plist" with a text editor (
       
             <integer>1800</integer>
 
-and write how many seconds you want as interval to turn off screen and save the file
+and write how many seconds you want as interval to turn off screen and save the file.
+
+Hope it works for you! It works like a charm for me :)
