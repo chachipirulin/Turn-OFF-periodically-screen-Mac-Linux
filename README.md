@@ -49,7 +49,7 @@ Open terminal program and type:
 
 4 CHECK IF PROCESS IS RUNNING AND DISABLE IT (IF YOU WANT)
 
-To check if the process is running, type the following line in the terminal and search through if "turnOff.sh" appears:
+To check if the process is running, type the following line in the terminal and search through the output (whatever is written on the terminal after running the line) if "turnOff.sh" appears:
 
         launchctl list
 
