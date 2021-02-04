@@ -1,4 +1,4 @@
-# Turn OFF automatically screen (Mac/Linux)
+# Turn OFF periodically screen (Mac/Linux)
 Turn OFF mac screen each 30 min (stand up and stretch time/seconds!). The screen will turn ON if you press any key.
 
 
