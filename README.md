@@ -30,7 +30,7 @@ Afterwards, you need to install launchctl. For doing that, open your terminal an
 
 Drag and drop the downloaded files into: 
 
-            ~/Library/LauchAgents folder of your MAC.
+            ~/Library/LauchAgents folder of your MAC/Linux (LaunchDaemons folder could also work).
             
 ("~" means the root of your system, normally, its name is smth like "JohnMacBookPro", "MyMacBook" or "Macintosh HD")
             
