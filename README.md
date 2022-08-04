@@ -1,4 +1,4 @@
-# Turn OFF periodically screen (ONLY INSTRUCTIONS FOR MAC)
+# Turn OFF periodically screen (ONLY INSTRUCTIONS FOR MAC, NOT WORKING FOR MONTERREY 12.5)
 Turn OFF mac screen each 30 min (stand up and stretch time/seconds!). The screen will turn ON if you press any key.
 
 
